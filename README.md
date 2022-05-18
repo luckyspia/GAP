@@ -1,3 +1,3 @@
 # GAP
-\gap is closing
+gap is closing
 ---------------
